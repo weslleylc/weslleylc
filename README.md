@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on CNN networks and signal processing.
 - 🌱 I’m currently learning Azure.
 - 👯 I’m looking to collaborate on pytorch projects.
-- 🤔 I’m looking for help with .
 - 💬 Ask me about Python, Data science, and machine learning.
 - ⚡ Fun fact: i know how to play piano.
 
