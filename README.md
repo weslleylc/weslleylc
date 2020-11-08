@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Weslley
 
-I am a Mbaachine learning research/engineer for six years. I have started as an intern, working with the NLP project at LG for one year. After that, I decided to improve my theoretical background taking a Master's Degree, and now I am in the last year of my Ph.D. program. I have worked in Brazil's industry in different companies with python, AWS, TensorFlow, spark, Keras, and other standard tools and libraries for machine learning. Also, I'm an associate researcher at the Logic and Artificial Intelligence Research Group (LogIA) at the Department of Computer Science, UFC.
+I am a Machine learning research/engineer for six years. I have started as an intern, working with the NLP project at LG for one year. After that, I decided to improve my theoretical background taking a Master's Degree, and now I am in the last year of my Ph.D. program. I have worked in Brazil's industry in different companies with python, AWS, TensorFlow, spark, Keras, and other standard tools and libraries for machine learning. Also, I'm an associate researcher at the Logic and Artificial Intelligence Research Group (LogIA) at the Department of Computer Science, UFC.
 
 Skills: Pytorch, Python, AWS, Docker
 
